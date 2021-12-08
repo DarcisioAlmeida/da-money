@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+# ignite-template-react-dt-money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clone - Projeto dt-money
 
-## Available Scripts
+Esse repositório foi desenvolvido com base no curso de ReactJS Ignite - Rocketseat <br>
 
-In the project directory, you can run:
+![Ignite](./public/ignite-react.jpg 'Ignite') <br>
 
-### `yarn start`
+# 💻 Sobre o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O dt money é uma aplicação onde seu principal objetivo é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização  e categorização de suas finanças.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Template da aplicação
 
-### `yarn test`
+O template está disponível na seguinte URL:
+![Ignite](./public/da-money.jpg 'Ignite') <br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Conceitos usados na aplicação?
 
-### `yarn build`
+  - Axios - Uma das principais funcionalidades do Axios é a habilidade de interceptar requisições(requests) HTTP. Esses interceptadores são úteis quando é preciso examinar ou alterar requisições HTTP, sendo ela da sua aplicação para o servidor e vice-versa(ex: log, autenticação, etc)<br><br>
+  - Miraje JS - É uma biblioteca de simulação de API que permite construir, testar e compartilhar um aplicativo JavaScript funcional completo sem ter que depender de qualquer API ou serviço de back-end. O Mirage JS resolve o problema de testar APIs de back-end sem depender dessas APIs. Ele permite uma experiência de desenvolvimento front-end perfeita ao simular APIs de produção.<br><br>
+  - Polished JS - É uma biblioteca CSS-in-JS de utilitário para componentes estilizados em React.js. É uma biblioteca de utilitários, então você só importa o que precisa para economizar alguns bytes para o usuário. O bom dessa biblioteca é que não importa se você usa componentes estilizados , emoção , jss , aphrodite , rádio ou apenas estilo embutido em JavaScript. Funciona com todos eles!<br><br>
+  - Styled Components - É uma biblioteca (lib) que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript. ... Criando códigos dessa forma, podemos reaproveitar o CSS de um website de forma mais rápida e ainda escrevê-lo sem revezar entre estilos diferentes de escrita.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+### 🛠 Tecnologias
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As seguintes ferramentas foram usadas no desafio do projeto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Axios](https://github.com/axios/axios)
+- [MirageJS](https://miragejs.com/)
+- [PolishedJS](https://polished.js.org/)
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/docs/handbook/react.html)
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+ <img src="https://img.shields.io/static/v1?label=DEV&message=Darcisio Almeida&color=7159c1&style=for-the-badge&logo=ghost"/>
